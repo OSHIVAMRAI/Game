@@ -1,13 +1,13 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "What does WWW stand for?",
+    answer: "World Wide Web",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "World Whole Web",
+      "Wide World Web",
+      "Web World Wide",
+      "World Wide Web"
     ]
   },
     {
@@ -23,13 +23,13 @@ let questions = [
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "What does RAM stand for?",
+    answer: "Random Access Memory",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Read Access Memory",
+      "Read Alternative Memory",
+      "Random Access Memory",
+      "Random Alternative Memory"
     ]
   },
     {
